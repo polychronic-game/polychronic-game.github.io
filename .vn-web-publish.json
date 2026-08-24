@@ -1,0 +1,11 @@
+{
+  "schema": "polychronic/vn-web-publish/v1",
+  "createdAt": "2026-08-24T08:20:20.387Z",
+  "basePath": "/",
+  "sourceBytes": 1208127558,
+  "outputBytes": 467437360,
+  "pngConvertedToWebp": 386,
+  "webpQuality": 88,
+  "mp3CompressedTo192Kbps": 10,
+  "opusVoiceFilesPreserved": 47
+}

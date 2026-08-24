@@ -1,0 +1,589 @@
+{
+  "entries": [
+    {
+      "id": "arno/neutral",
+      "character": "arno",
+      "anchor": {
+        "x": 57.8,
+        "y": 28.5,
+        "width": 4.4
+      },
+      "rest": "/assets/portraits/arno/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/arno/neutral-closed.webp",
+        "half": "/assets/portraits/arno/neutral-half.webp",
+        "open": "/assets/portraits/arno/neutral-open.webp"
+      }
+    },
+    {
+      "id": "baro/neutral",
+      "character": "baro",
+      "anchor": {
+        "x": 45.2,
+        "y": 29,
+        "width": 4.2
+      },
+      "rest": "/assets/portraits/baro/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/baro/neutral-closed.webp",
+        "half": "/assets/portraits/baro/neutral-half.webp",
+        "open": "/assets/portraits/baro/neutral-open.webp"
+      }
+    },
+    {
+      "id": "bitti/neutral",
+      "character": "bitti",
+      "anchor": {
+        "x": 45.4,
+        "y": 27.8,
+        "width": 3.8
+      },
+      "rest": "/assets/portraits/bitti/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/bitti/neutral-closed.webp",
+        "half": "/assets/portraits/bitti/neutral-half.webp",
+        "open": "/assets/portraits/bitti/neutral-open.webp"
+      }
+    },
+    {
+      "id": "chiko/neutral",
+      "character": "chiko",
+      "anchor": {
+        "x": 46.8,
+        "y": 27.3,
+        "width": 4.1
+      },
+      "rest": "/assets/portraits/chiko/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/chiko/neutral-closed.webp",
+        "half": "/assets/portraits/chiko/neutral-half.webp",
+        "open": "/assets/portraits/chiko/neutral-open.webp"
+      }
+    },
+    {
+      "id": "estelle/concerned",
+      "character": "estelle",
+      "anchor": {
+        "x": 47.5,
+        "y": 36.3,
+        "width": 2.6
+      },
+      "rest": "/assets/portraits/estelle/concerned.webp",
+      "frames": {
+        "closed": "/assets/portraits/estelle/concerned-closed.webp",
+        "half": "/assets/portraits/estelle/concerned-half.webp",
+        "open": "/assets/portraits/estelle/concerned-open.webp"
+      }
+    },
+    {
+      "id": "estelle/neutral",
+      "character": "estelle",
+      "anchor": {
+        "x": 47.5,
+        "y": 36.3,
+        "width": 2.6
+      },
+      "rest": "/assets/portraits/estelle/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/estelle/neutral-closed.webp",
+        "half": "/assets/portraits/estelle/neutral-half.webp",
+        "open": "/assets/portraits/estelle/neutral-open.webp"
+      }
+    },
+    {
+      "id": "estelle/resolved",
+      "character": "estelle",
+      "anchor": {
+        "x": 47.5,
+        "y": 36.3,
+        "width": 2.6
+      },
+      "rest": "/assets/portraits/estelle/resolved.webp",
+      "frames": {
+        "closed": "/assets/portraits/estelle/resolved-closed.webp",
+        "half": "/assets/portraits/estelle/resolved-half.webp",
+        "open": "/assets/portraits/estelle/resolved-open.webp"
+      }
+    },
+    {
+      "id": "estelle/skeptical",
+      "character": "estelle",
+      "anchor": {
+        "x": 47.5,
+        "y": 36.3,
+        "width": 2.6
+      },
+      "rest": "/assets/portraits/estelle/skeptical.webp",
+      "frames": {
+        "closed": "/assets/portraits/estelle/skeptical-closed.webp",
+        "half": "/assets/portraits/estelle/skeptical-half.webp",
+        "open": "/assets/portraits/estelle/skeptical-open.webp"
+      }
+    },
+    {
+      "id": "estelle/warm",
+      "character": "estelle",
+      "anchor": {
+        "x": 47.5,
+        "y": 36.3,
+        "width": 2.6
+      },
+      "rest": "/assets/portraits/estelle/warm.webp",
+      "frames": {
+        "closed": "/assets/portraits/estelle/warm-closed.webp",
+        "half": "/assets/portraits/estelle/warm-half.webp",
+        "open": "/assets/portraits/estelle/warm-open.webp"
+      }
+    },
+    {
+      "id": "garon/neutral",
+      "character": "garon",
+      "anchor": {
+        "x": 44.9,
+        "y": 25.3,
+        "width": 4.3
+      },
+      "rest": "/assets/portraits/garon/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/garon/neutral-closed.webp",
+        "half": "/assets/portraits/garon/neutral-half.webp",
+        "open": "/assets/portraits/garon/neutral-open.webp"
+      }
+    },
+    {
+      "id": "heisenberg/defector",
+      "character": "heisenberg",
+      "anchor": {
+        "x": 46,
+        "y": 33,
+        "width": 4.1
+      },
+      "rest": "/assets/portraits/heisenberg/defector.webp",
+      "frames": {
+        "closed": "/assets/portraits/heisenberg/defector-closed.webp",
+        "half": "/assets/portraits/heisenberg/defector-half.webp",
+        "open": "/assets/portraits/heisenberg/defector-open.webp"
+      }
+    },
+    {
+      "id": "heisenberg/late",
+      "character": "heisenberg",
+      "anchor": {
+        "x": 45.1,
+        "y": 34.4,
+        "width": 4.1
+      },
+      "rest": "/assets/portraits/heisenberg/late.webp",
+      "frames": {
+        "closed": "/assets/portraits/heisenberg/late-closed.webp",
+        "half": "/assets/portraits/heisenberg/late-half.webp",
+        "open": "/assets/portraits/heisenberg/late-open.webp"
+      }
+    },
+    {
+      "id": "heisenberg/young",
+      "character": "heisenberg",
+      "anchor": {
+        "x": 43.4,
+        "y": 33.5,
+        "width": 4.3
+      },
+      "rest": "/assets/portraits/heisenberg/young.webp",
+      "frames": {
+        "closed": "/assets/portraits/heisenberg/young-closed.webp",
+        "half": "/assets/portraits/heisenberg/young-half.webp",
+        "open": "/assets/portraits/heisenberg/young-open.webp"
+      }
+    },
+    {
+      "id": "kain/neutral",
+      "character": "kain",
+      "anchor": {
+        "x": 43.8,
+        "y": 26.9,
+        "width": 4.1
+      },
+      "rest": "/assets/portraits/kain/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/kain/neutral-closed.webp",
+        "half": "/assets/portraits/kain/neutral-half.webp",
+        "open": "/assets/portraits/kain/neutral-open.webp"
+      }
+    },
+    {
+      "id": "kolai/neutral",
+      "character": "kolai",
+      "anchor": {
+        "x": 44.4,
+        "y": 27.8,
+        "width": 3.9
+      },
+      "rest": "/assets/portraits/kolai/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/kolai/neutral-closed.webp",
+        "half": "/assets/portraits/kolai/neutral-half.webp",
+        "open": "/assets/portraits/kolai/neutral-open.webp"
+      }
+    },
+    {
+      "id": "krennic/neutral",
+      "character": "krennic",
+      "anchor": {
+        "x": 40.2,
+        "y": 30.3,
+        "width": 4.2
+      },
+      "rest": "/assets/portraits/krennic/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/krennic/neutral-closed.webp",
+        "half": "/assets/portraits/krennic/neutral-half.webp",
+        "open": "/assets/portraits/krennic/neutral-open.webp"
+      }
+    },
+    {
+      "id": "lysenko/neutral",
+      "character": "lysenko",
+      "anchor": {
+        "x": 34,
+        "y": 30.3,
+        "width": 4.2
+      },
+      "rest": "/assets/portraits/lysenko/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/lysenko/neutral-closed.webp",
+        "half": "/assets/portraits/lysenko/neutral-half.webp",
+        "open": "/assets/portraits/lysenko/neutral-open.webp"
+      }
+    },
+    {
+      "id": "marta/neutral",
+      "character": "marta",
+      "anchor": {
+        "x": 48.4,
+        "y": 30.2,
+        "width": 3.8
+      },
+      "rest": "/assets/portraits/marta/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/marta/neutral-closed.webp",
+        "half": "/assets/portraits/marta/neutral-half.webp",
+        "open": "/assets/portraits/marta/neutral-open.webp"
+      }
+    },
+    {
+      "id": "meru/neutral",
+      "character": "meru",
+      "anchor": {
+        "x": 46.3,
+        "y": 29.9,
+        "width": 3.8
+      },
+      "rest": "/assets/portraits/meru/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/meru/neutral-closed.webp",
+        "half": "/assets/portraits/meru/neutral-half.webp",
+        "open": "/assets/portraits/meru/neutral-open.webp"
+      }
+    },
+    {
+      "id": "milu/neutral",
+      "character": "milu",
+      "anchor": {
+        "x": 49.1,
+        "y": 35.1,
+        "width": 3.6
+      },
+      "rest": "/assets/portraits/milu/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/milu/neutral-closed.webp",
+        "half": "/assets/portraits/milu/neutral-half.webp",
+        "open": "/assets/portraits/milu/neutral-open.webp"
+      }
+    },
+    {
+      "id": "mond/neutral",
+      "character": "mond",
+      "anchor": {
+        "x": 48.3,
+        "y": 28.4,
+        "width": 3.8
+      },
+      "rest": "/assets/portraits/mond/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/mond/neutral-closed.webp",
+        "half": "/assets/portraits/mond/neutral-half.webp",
+        "open": "/assets/portraits/mond/neutral-open.webp"
+      }
+    },
+    {
+      "id": "naiwa/neutral",
+      "character": "naiwa",
+      "anchor": {
+        "x": 45.6,
+        "y": 29.4,
+        "width": 4.1
+      },
+      "rest": "/assets/portraits/naiwa/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/naiwa/neutral-closed.webp",
+        "half": "/assets/portraits/naiwa/neutral-half.webp",
+        "open": "/assets/portraits/naiwa/neutral-open.webp"
+      }
+    },
+    {
+      "id": "nona/neutral",
+      "character": "nona",
+      "anchor": {
+        "x": 49.2,
+        "y": 30,
+        "width": 4.1
+      },
+      "rest": "/assets/portraits/nona/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/nona/neutral-closed.webp",
+        "half": "/assets/portraits/nona/neutral-half.webp",
+        "open": "/assets/portraits/nona/neutral-open.webp"
+      }
+    },
+    {
+      "id": "otto/neutral",
+      "character": "otto",
+      "anchor": {
+        "x": 43.5,
+        "y": 27,
+        "width": 4.2
+      },
+      "rest": "/assets/portraits/otto/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/otto/neutral-closed.webp",
+        "half": "/assets/portraits/otto/neutral-half.webp",
+        "open": "/assets/portraits/otto/neutral-open.webp"
+      }
+    },
+    {
+      "id": "pino/neutral",
+      "character": "pino",
+      "anchor": {
+        "x": 43.3,
+        "y": 39.1,
+        "width": 3.5
+      },
+      "rest": "/assets/portraits/pino/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/pino/neutral-closed.webp",
+        "half": "/assets/portraits/pino/neutral-half.webp",
+        "open": "/assets/portraits/pino/neutral-open.webp"
+      }
+    },
+    {
+      "id": "remy/neutral",
+      "character": "remy",
+      "anchor": {
+        "x": 44.1,
+        "y": 30.6,
+        "width": 3.7
+      },
+      "rest": "/assets/portraits/remy/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/remy/neutral-closed.webp",
+        "half": "/assets/portraits/remy/neutral-half.webp",
+        "open": "/assets/portraits/remy/neutral-open.webp"
+      }
+    },
+    {
+      "id": "rena/concerned",
+      "character": "rena",
+      "anchor": {
+        "x": 52.1,
+        "y": 37.7,
+        "width": 3.4
+      },
+      "rest": "/assets/portraits/rena/concerned.webp",
+      "frames": {
+        "closed": "/assets/portraits/rena/concerned-closed.webp",
+        "half": "/assets/portraits/rena/concerned-half.webp",
+        "open": "/assets/portraits/rena/concerned-open.webp"
+      }
+    },
+    {
+      "id": "rena/neutral",
+      "character": "rena",
+      "anchor": {
+        "x": 52.1,
+        "y": 37.7,
+        "width": 3.4
+      },
+      "rest": "/assets/portraits/rena/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/rena/neutral-closed.webp",
+        "half": "/assets/portraits/rena/neutral-half.webp",
+        "open": "/assets/portraits/rena/neutral-open.webp"
+      }
+    },
+    {
+      "id": "semmelweis/neutral",
+      "character": "semmelweis",
+      "anchor": {
+        "x": 45.2,
+        "y": 30.9,
+        "width": 4.2
+      },
+      "rest": "/assets/portraits/semmelweis/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/semmelweis/neutral-closed.webp",
+        "half": "/assets/portraits/semmelweis/neutral-half.webp",
+        "open": "/assets/portraits/semmelweis/neutral-open.webp"
+      }
+    },
+    {
+      "id": "sera/concerned",
+      "character": "sera",
+      "anchor": {
+        "x": 46.7,
+        "y": 36.7,
+        "width": 3.2
+      },
+      "rest": "/assets/portraits/sera/concerned.webp",
+      "frames": {
+        "closed": "/assets/portraits/sera/concerned-closed.webp",
+        "half": "/assets/portraits/sera/concerned-half.webp",
+        "open": "/assets/portraits/sera/concerned-open.webp"
+      }
+    },
+    {
+      "id": "sera/neutral",
+      "character": "sera",
+      "anchor": {
+        "x": 46.7,
+        "y": 36.7,
+        "width": 3.2
+      },
+      "rest": "/assets/portraits/sera/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/sera/neutral-closed.webp",
+        "half": "/assets/portraits/sera/neutral-half.webp",
+        "open": "/assets/portraits/sera/neutral-open.webp"
+      }
+    },
+    {
+      "id": "toma/neutral",
+      "character": "toma",
+      "anchor": {
+        "x": 47.6,
+        "y": 29.4,
+        "width": 4.2
+      },
+      "rest": "/assets/portraits/toma/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/toma/neutral-closed.webp",
+        "half": "/assets/portraits/toma/neutral-half.webp",
+        "open": "/assets/portraits/toma/neutral-open.webp"
+      }
+    },
+    {
+      "id": "vera/neutral",
+      "character": "vera",
+      "anchor": {
+        "x": 49.3,
+        "y": 31.2,
+        "width": 3.9
+      },
+      "rest": "/assets/portraits/vera/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/vera/neutral-closed.webp",
+        "half": "/assets/portraits/vera/neutral-half.webp",
+        "open": "/assets/portraits/vera/neutral-open.webp"
+      }
+    },
+    {
+      "id": "yuna/bright",
+      "character": "yuna",
+      "anchor": {
+        "x": 46.1,
+        "y": 33.3,
+        "width": 3.6
+      },
+      "rest": "/assets/portraits/yuna/bright.webp",
+      "frames": {
+        "closed": "/assets/portraits/yuna/bright-closed.webp",
+        "half": "/assets/portraits/yuna/bright-half.webp",
+        "open": "/assets/portraits/yuna/bright-open.webp"
+      }
+    },
+    {
+      "id": "yuna/concerned",
+      "character": "yuna",
+      "anchor": {
+        "x": 46.1,
+        "y": 33.3,
+        "width": 3.6
+      },
+      "rest": "/assets/portraits/yuna/concerned.webp",
+      "frames": {
+        "closed": "/assets/portraits/yuna/concerned-closed.webp",
+        "half": "/assets/portraits/yuna/concerned-half.webp",
+        "open": "/assets/portraits/yuna/concerned-open.webp"
+      }
+    },
+    {
+      "id": "yuna/exhausted",
+      "character": "yuna",
+      "anchor": {
+        "x": 46.1,
+        "y": 33.3,
+        "width": 3.6
+      },
+      "rest": "/assets/portraits/yuna/exhausted.webp",
+      "frames": {
+        "closed": "/assets/portraits/yuna/exhausted-closed.webp",
+        "half": "/assets/portraits/yuna/exhausted-half.webp",
+        "open": "/assets/portraits/yuna/exhausted-open.webp"
+      }
+    },
+    {
+      "id": "yuna/neutral",
+      "character": "yuna",
+      "anchor": {
+        "x": 46.1,
+        "y": 33.3,
+        "width": 3.6
+      },
+      "rest": "/assets/portraits/yuna/neutral.webp",
+      "frames": {
+        "closed": "/assets/portraits/yuna/neutral-closed.webp",
+        "half": "/assets/portraits/yuna/neutral-half.webp",
+        "open": "/assets/portraits/yuna/neutral-open.webp"
+      }
+    },
+    {
+      "id": "yuna/soft",
+      "character": "yuna",
+      "anchor": {
+        "x": 46.1,
+        "y": 33.3,
+        "width": 3.6
+      },
+      "rest": "/assets/portraits/yuna/soft.webp",
+      "frames": {
+        "closed": "/assets/portraits/yuna/soft-closed.webp",
+        "half": "/assets/portraits/yuna/soft-half.webp",
+        "open": "/assets/portraits/yuna/soft-open.webp"
+      }
+    },
+    {
+      "id": "yuna/startled",
+      "character": "yuna",
+      "anchor": {
+        "x": 46.1,
+        "y": 33.3,
+        "width": 3.6
+      },
+      "rest": "/assets/portraits/yuna/startled.webp",
+      "frames": {
+        "closed": "/assets/portraits/yuna/startled-closed.webp",
+        "half": "/assets/portraits/yuna/startled-half.webp",
+        "open": "/assets/portraits/yuna/startled-open.webp"
+      }
+    }
+  ]
+}

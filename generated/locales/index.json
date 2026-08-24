@@ -1,0 +1,28 @@
+{
+  "schema": "vn/locale-index/v1",
+  "sourceLocale": "zh-CN",
+  "sourceFingerprint": "gemini-revise-v24",
+  "locales": [
+    {
+      "id": "zh-CN",
+      "label": "中文",
+      "nativeLabel": "中文",
+      "complete": true,
+      "coverage": 1
+    },
+    {
+      "id": "en",
+      "label": "英语",
+      "nativeLabel": "English",
+      "complete": true,
+      "coverage": 1
+    },
+    {
+      "id": "ja",
+      "label": "日语",
+      "nativeLabel": "日本語",
+      "complete": true,
+      "coverage": 1
+    }
+  ]
+}
